@@ -1,4 +1,5 @@
-﻿using BuilderPattern.Builder;
+﻿using AdapterPattern.Adapter;
+using BuilderPattern.Builder;
 using Domain.DTO;
 using Domain.Entities;
 using Repositories.InterfaceRepositories;
@@ -28,5 +29,6 @@ namespace Services.Services
             _mwishlistRepository.Create(wishlist);
             return wishlist;
         }
+
     }
 }

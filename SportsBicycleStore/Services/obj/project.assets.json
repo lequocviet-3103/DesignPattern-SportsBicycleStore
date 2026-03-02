@@ -433,6 +433,19 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "AdapterPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AdapterPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdapterPattern.dll": {}
+        }
+      },
       "BuilderPattern/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1196,6 +1209,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AdapterPattern/1.0.0": {
+      "type": "project",
+      "path": "../AdapterPattern/AdapterPattern.csproj",
+      "msbuildProject": "../AdapterPattern/AdapterPattern.csproj"
+    },
     "BuilderPattern/1.0.0": {
       "type": "project",
       "path": "../BuilderPattern/BuilderPattern.csproj",
@@ -1214,6 +1232,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AdapterPattern >= 1.0.0",
       "BuilderPattern >= 1.0.0",
       "Repositories >= 1.0.0"
     ]
@@ -1225,11 +1244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj",
+      "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-      "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\Services\\obj\\",
+      "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1250,11 +1269,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
-              "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+            "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj": {
+              "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj"
             },
-            "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj"
+            "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+              "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+            },
+            "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj"
             }
           }
         }

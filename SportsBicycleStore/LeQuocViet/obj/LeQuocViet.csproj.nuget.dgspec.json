@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {}
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {}
   },
   "projects": {
-    "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
-        "projectName": "BuilderPattern",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj",
+        "projectName": "AdapterPattern",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -73,14 +73,83 @@
         }
       }
     },
-    "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj",
-        "projectName": "Domain",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
+        "projectName": "BuilderPattern",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Le Quoc Viet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,14 +233,14 @@
         }
       }
     },
-    "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
         "projectName": "LeQuocViet",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,11 +261,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
               },
-              "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj"
               }
             }
           }
@@ -236,14 +305,14 @@
         }
       }
     },
-    "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,8 +333,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -305,14 +374,14 @@
         }
       }
     },
-    "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services.csproj",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\Services\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -333,11 +402,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj"
               },
-              "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories.csproj"
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+              },
+              "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj"
               }
             }
           }

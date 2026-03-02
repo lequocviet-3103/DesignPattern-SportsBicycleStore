@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeQuocViet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a704303f7e15c8ed5d8eee61302eee642efb49fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeQuocViet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeQuocViet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

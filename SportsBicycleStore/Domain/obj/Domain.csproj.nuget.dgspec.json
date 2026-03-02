@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {}
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj": {
+    "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "projectPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\obj\\",
+        "outputPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,7 +7,8 @@ using Repositories.Repositories;
 using Services.InterfaceServices;
 using Services.Services;
 using System;
-
+using System.Text;
+Console.OutputEncoding = Encoding.UTF8;
 // Tạo ServiceCollection
 var services = new ServiceCollection();
 

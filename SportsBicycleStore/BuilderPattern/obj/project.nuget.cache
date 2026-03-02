@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fadxmZEpZe4=",
+  "dgSpecHash": "jB1gt9HadvQ=",
   "success": true,
-  "projectFilePath": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
+  "projectFilePath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Le Quoc Viet\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",

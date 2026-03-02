@@ -1,0 +1,16 @@
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\bin\Debug\net8.0\Domain.dll
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\bin\Debug\net8.0\Domain.pdb
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.sourcelink.json
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterP.02F7E4E8.Up2Date
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+D:\DesignPatter-SportsBicycleStore\SportsBicycleStore\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll

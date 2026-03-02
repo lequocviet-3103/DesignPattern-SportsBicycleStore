@@ -1,105 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DesignPattern\\SportsBicycleStore\\",
+  "WorkspaceRootPath": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35F95227-F417-4932-A2BA-9A4F97F9B923}|LeQuocViet\\LeQuocViet.csproj|d:\\designpattern\\sportsbicyclestore\\lequocviet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35F95227-F417-4932-A2BA-9A4F97F9B923}|LeQuocViet\\LeQuocViet.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\lequocviet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35F95227-F417-4932-A2BA-9A4F97F9B923}|LeQuocViet\\LeQuocViet.csproj|solutionrelative:lequocviet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{352187FB-8515-43EA-B229-F58116066A2E}|SportBicycleStore\\SportBicycleStore.csproj|d:\\designpattern\\sportsbicyclestore\\sportbicyclestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352187FB-8515-43EA-B229-F58116066A2E}|SportBicycleStore\\SportBicycleStore.csproj|solutionrelative:sportbicyclestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{115BBA7B-3EED-4F91-9FD5-CAAB564E29FB}|LeQuocViet-Adapter\\LeQuocViet-Adapter.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\lequocviet-adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115BBA7B-3EED-4F91-9FD5-CAAB564E29FB}|LeQuocViet-Adapter\\LeQuocViet-Adapter.csproj|solutionrelative:lequocviet-adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpattern\\sportsbicyclestore\\repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\data\\jsonwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\data\\jsonwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpattern\\sportsbicyclestore\\repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\adapter\\wishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\adapter\\wishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\designpattern\\sportsbicyclestore\\services\\services\\mwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\mwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\services\\services\\mwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\mwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpattern\\sportsbicyclestore\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\imwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\imwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\designpattern\\sportsbicyclestore\\services\\interfaceservices\\imwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\imwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\imwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\designpattern\\sportsbicyclestore\\builderpattern\\builder\\wishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\iadapter\\iwishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\iadapter\\iwishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\builder\\wishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\wishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\designpattern\\sportsbicyclestore\\builderpattern\\interfacebuilder\\iwishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\interfacebuilder\\iwishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\interfacebuilder\\iwishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\morderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\morderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\morderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\minspectionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\minspectionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\minspectionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mdisputeevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mdisputeevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mdisputeevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpattern\\sportsbicyclestore\\domain\\entities\\mdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\designpatter-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,65 +118,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet-Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "LeQuocViet-Adapter\\Program.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet-Adapter\\Program.cs",
+              "RelativeToolTip": "LeQuocViet-Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:20:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WishlistAdapter.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:14:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWishlistAdapter.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:12:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonWishlist.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\JsonWishlist.cs",
+              "RelativeDocumentMoniker": "Domain\\Data\\JsonWishlist.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\JsonWishlist.cs",
+              "RelativeToolTip": "Domain\\Data\\JsonWishlist.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:00:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MWishlistServiceAdapter.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\MWishlistServiceAdapter.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\MWishlistServiceAdapter.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\MWishlistServiceAdapter.cs",
+              "RelativeToolTip": "Services\\Services\\MWishlistServiceAdapter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:36:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMWishlistRepository.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "RelativeToolTip": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:33:32.861Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\Program.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\Program.cs",
               "RelativeDocumentMoniker": "LeQuocViet\\Program.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\LeQuocViet\\Program.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\Program.cs",
               "RelativeToolTip": "LeQuocViet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T07:15:30.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\SportBicycleStore\\Program.cs",
-              "RelativeDocumentMoniker": "SportBicycleStore\\Program.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\SportBicycleStore\\Program.cs",
-              "RelativeToolTip": "SportBicycleStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IMWishlistServiceAdapter.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:50:06.939Z",
+              "WhenOpened": "2026-03-02T10:35:30.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Mbrand.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Mbrand.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
-              "RelativeToolTip": "Domain\\Entities\\Mbrand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IMWishlistService.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IMWishlistService.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\IMWishlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:06:30.134Z"
+              "WhenOpened": "2026-02-28T09:35:14.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mcategory.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Mcategory.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
-              "RelativeToolTip": "Domain\\Entities\\Mcategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:06:50.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MWishlistRepository.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Repositories\\MWishlistRepository.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
               "RelativeToolTip": "Repositories\\Repositories\\MWishlistRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAnwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,35 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMWishlistRepository.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
-              "RelativeToolTip": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T09:33:32.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MWishlistService.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services\\MWishlistService.cs",
-              "RelativeDocumentMoniker": "Services\\Services\\MWishlistService.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Services\\Services\\MWishlistService.cs",
-              "RelativeToolTip": "Services\\Services\\MWishlistService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T04:35:47.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
               "RelativeToolTip": "Repositories\\RepositoryBase.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +263,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mbrand.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mbrand.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mbrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:06:30.134Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Mcategory.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mcategory.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mcategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:06:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IWishlistBuilder.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
               "RelativeDocumentMoniker": "BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
               "RelativeToolTip": "BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "WishlistBuilder.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
               "RelativeDocumentMoniker": "BuilderPattern\\Builder\\WishlistBuilder.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
               "RelativeToolTip": "BuilderPattern\\Builder\\WishlistBuilder.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIA3wCUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Domain\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Domain\\Data\\AppDbContext.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,23 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IMWishlistService.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
-              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IMWishlistService.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
-              "RelativeToolTip": "Services\\InterfaceServices\\IMWishlistService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T09:35:14.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "CreateWishlistRequest.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\CreateWishlistRequest.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
               "RelativeToolTip": "Domain\\DTO\\CreateWishlistRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,23 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Mwishlist.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mwishlist.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Mwishlist.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mwishlist.cs",
-              "RelativeToolTip": "Domain\\Entities\\Mwishlist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:06:18.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Muser.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Muser.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
               "RelativeToolTip": "Domain\\Entities\\Muser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Mrole.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Mrole.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
               "RelativeToolTip": "Domain\\Entities\\Mrole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Mproduct.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Mproduct.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
               "RelativeToolTip": "Domain\\Entities\\Mproduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,11 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Mpayment.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Mpayment.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
               "RelativeToolTip": "Domain\\Entities\\Mpayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Morderdetail.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Morderdetail.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
               "RelativeToolTip": "Domain\\Entities\\Morderdetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Morder.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Morder.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
               "RelativeToolTip": "Domain\\Entities\\Morder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Mmessage.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Mmessage.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
               "RelativeToolTip": "Domain\\Entities\\Mmessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,23 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Mlisting.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mlisting.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Mlisting.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mlisting.cs",
-              "RelativeToolTip": "Domain\\Entities\\Mlisting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:07:08.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Minspectionreport.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Minspectionreport.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
               "RelativeToolTip": "Domain\\Entities\\Minspectionreport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,11 +431,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "MdisputeEvidence.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\MdisputeEvidence.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
               "RelativeToolTip": "Domain\\Entities\\MdisputeEvidence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,11 +443,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Mdispute.cs",
-              "DocumentMoniker": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
+              "DocumentMoniker": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Mdispute.cs",
-              "ToolTip": "D:\\DesignPattern\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
+              "ToolTip": "D:\\DesignPatter-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
               "RelativeToolTip": "Domain\\Entities\\Mdispute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

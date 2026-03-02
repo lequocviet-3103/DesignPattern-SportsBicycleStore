@@ -2,6 +2,7 @@
   <Project Path="AdapterPattern/AdapterPattern.csproj" />
   <Project Path="BuilderPattern/BuilderPattern.csproj" />
   <Project Path="Domain/Domain.csproj" />
+  <Project Path="LeQuocViet-Adapter/LeQuocViet-Adapter.csproj" Id="115bba7b-3eed-4f91-9fd5-caab564e29fb" />
   <Project Path="LeQuocViet/LeQuocViet.csproj" Id="35f95227-f417-4932-a2ba-9a4f97f9b923" />
   <Project Path="Repositories/Repositories.csproj" />
   <Project Path="Services/Services.csproj" />
